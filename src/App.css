@@ -1,7 +1,25 @@
 .App {
   text-align: center;
 }
+.App h1{
+  margin-top: 10px;
+  font-size: 40px;
+  font-weight: bolder;
+  margin-bottom: 5px;
+}
+.App p{
+  font-weight: bold;
+  margin-top: 50px;
+  }
+  .App a{
+    text-decoration: none;
+  }
 
+  .App a:hover{
+    text-decoration: underline;
+    color: #61dafb;
+    transition: all 0.3s ease-in-out;
+  }
 .App-logo {
   height: 40vmin;
   pointer-events: none;
