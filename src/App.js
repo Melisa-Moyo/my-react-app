@@ -7,7 +7,7 @@ function App() {
     <h1>Weather Search</h1>
       <Weather/>
 
-      <p> <a href='#'>Open-Sourced</a> by Melisa Moyo </p>
+      <p> <a href='https://github.com/Melisa-Moyo/my-react-app'>Open-Sourced</a> by Melisa Moyo </p>
     </div>
   );
 }
